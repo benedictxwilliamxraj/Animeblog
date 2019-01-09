@@ -25,7 +25,7 @@ SECRET_KEY = '&(0n$2&vp$5=(5&$*%r@4!3y4(b_bq_&1_0^^vavcn^&v+e(=_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['animeblog.pythonanywhere.com']
 
 
 # Application definition
